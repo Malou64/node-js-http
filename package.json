@@ -1,0 +1,20 @@
+{
+  "name": "node_atelier_http",
+  "version": "1.0.0",
+  "description": "wild exercise node js http",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malou64/node-js-http.git"
+  },
+  "author": "Marlene A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Malou64/node-js-http/issues"
+  },
+  "homepage": "https://github.com/Malou64/node-js-http#readme"
+}
